@@ -1,0 +1,1 @@
+enum NavigationDirection { FORWARD, BACKWARD }
